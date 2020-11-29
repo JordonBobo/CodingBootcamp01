@@ -1,0 +1,40 @@
+/**
+ * Float Layout Activity
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  font-size: 40px;
+}
+
+header {
+  padding: 1px;
+  margin-bottom: 10px;
+  background: blue;
+  width: 100%;
+  font-size: 50px;
+}
+
+
+.MainText {
+    background-color: tan;
+    font-size: 20px;
+}
+
+.image1 {
+  width: 20%;
+  float: left;
+
+}
+
+
+
+footer {
+  background-color: red;
+  font-size: 50px;
+  width: 100%;
+}
