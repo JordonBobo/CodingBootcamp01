@@ -1,0 +1,46 @@
+
+
+body {
+    
+
+}
+
+.text1{
+    background-color: tan;
+    font-size: 30px;
+}
+
+
+.fixed {
+    background-color: red;
+    font-size: 45px;
+    width: 10%;
+    position: fixed;
+    bottom: 0;
+    left: 5%;
+    width: 25%;
+}
+
+.relative {
+    background-color: green;
+    font-size: 20px;
+    width: 5%;
+    position: relative;
+    left: 50px;
+}
+
+.absolute {
+    background-color: yellow;
+    font-size: 50px;
+    width: 20%;
+    position: absolute;
+}
+
+.sticky {
+    background: orange;
+    font-size: 50px;
+    width: 20%;
+    position: sticky;
+    right: 0;
+}
+
